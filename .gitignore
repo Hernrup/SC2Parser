@@ -1,0 +1,12 @@
+_Resharper.*
+*/bin
+*/obj
+*.suo
+*.ReSharper.user
+*StyleCop.Cache
+*.Resharper
+*.dotCover
+*.DotSettings
+*.DotSettings.*
+*.7z
+*.sql
