@@ -2,7 +2,8 @@
 | Info
 +-------------------------------------------------------------------------------
 
-¤ MpqLib v1.00
+¤ MpqLib v1.2
+  Extended and rewritten for stormlib 8.02 and .net 4.0 by Hernrup
   Created by Magnus Ostberg (aka Magos)
   http://www.magosx.com
 
@@ -11,7 +12,7 @@
 | What is this?
 +-------------------------------------------------------------------------------
 
-¤ MpqLib is a .NET 3.5 Class Library to handle MoPaQ Archives.
+¤ MpqLib is a .NET Class Library to handle MoPaQ Archives.
   It's mainly aimed for programmers to be used in tools and similar.
 
 
